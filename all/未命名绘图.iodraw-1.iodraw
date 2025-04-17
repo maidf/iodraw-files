@@ -161,7 +161,7 @@
             <mxPoint x="440" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-33" value="用户提交注册信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-32">
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-33" value="&lt;code&gt;注册信息&lt;/code&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-32">
           <mxGeometry x="-0.2442" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
