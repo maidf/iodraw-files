@@ -734,13 +734,105 @@
             <mxPoint x="590" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhTVunu0ynOkuBu6gDeH-69" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-59">
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-69" value="&lt;pre&gt;题目详情&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-59">
           <mxGeometry x="0.0301" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-61" value="&lt;pre&gt;4&lt;/pre&gt;&lt;pre&gt;查询题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-70" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-78" target="qhTVunu0ynOkuBu6gDeH-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-71" value="&lt;pre&gt;题目信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-70">
+          <mxGeometry x="0.0111" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-78" target="qhTVunu0ynOkuBu6gDeH-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-73" value="&lt;pre&gt;题目信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-72">
+          <mxGeometry x="0.3173" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-78" target="qhTVunu0ynOkuBu6gDeH-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-75" value="&lt;pre&gt;题目ID&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-74">
+          <mxGeometry x="0.3924" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-78" target="qhTVunu0ynOkuBu6gDeH-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-77" value="&lt;pre&gt;题库ID/题目ID&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-76">
+          <mxGeometry x="0.643" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-78" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-79" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-81" target="qhTVunu0ynOkuBu6gDeH-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-80" value="&lt;pre&gt;题目信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-79">
+          <mxGeometry x="-0.0578" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-81" value="&lt;pre&gt;1&lt;/pre&gt;&lt;pre&gt;创建题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-84" target="qhTVunu0ynOkuBu6gDeH-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-83" value="&lt;pre&gt;题目信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-82">
+          <mxGeometry x="0.6484" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-84" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-87" target="qhTVunu0ynOkuBu6gDeH-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-86" value="&lt;pre&gt;题目信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-85">
+          <mxGeometry x="-0.4452" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-87" value="&lt;pre&gt;2&lt;/pre&gt;&lt;pre&gt;修改题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-90" target="qhTVunu0ynOkuBu6gDeH-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-89" value="&lt;pre&gt;删除&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-88">
+          <mxGeometry x="-0.6333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-90" value="&lt;pre&gt;3&lt;/pre&gt;&lt;pre&gt;删除题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.181;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-93" target="qhTVunu0ynOkuBu6gDeH-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-92" value="&lt;pre&gt;题目详情&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-91">
+          <mxGeometry x="0.0301" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-93" value="&lt;pre&gt;4&lt;/pre&gt;&lt;pre&gt;查询题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
