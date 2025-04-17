@@ -33,8 +33,8 @@
         <mxCell id="GSDxpnkatiGItII1ybcR-7" value="更新个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
           <mxGeometry x="60" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T4Ihz7HnN6s5JJPbkGPD-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
-          <mxGeometry x="200" y="150" width="120" height="80" as="geometry" />
+        <mxCell id="T4Ihz7HnN6s5JJPbkGPD-11" value="验证密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
+          <mxGeometry x="210" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T4Ihz7HnN6s5JJPbkGPD-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
