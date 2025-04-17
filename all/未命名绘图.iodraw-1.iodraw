@@ -4,12 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T4Ihz7HnN6s5JJPbkGPD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="GSDxpnkatiGItII1ybcR-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-2" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,6 +60,9 @@
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T4Ihz7HnN6s5JJPbkGPD-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
