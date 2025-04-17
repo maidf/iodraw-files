@@ -8,7 +8,7 @@
           <mxGeometry x="150" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-2" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-5" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-6" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="120" height="80" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="GSDxpnkatiGItII1ybcR-8" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GSDxpnkatiGItII1ybcR-9" value="注销账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
