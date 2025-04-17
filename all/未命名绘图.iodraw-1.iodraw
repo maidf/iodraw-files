@@ -834,7 +834,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhTVunu0ynOkuBu6gDeH-90" value="&lt;pre&gt;3&lt;/pre&gt;&lt;pre&gt;删除试卷&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-90" value="&lt;pre&gt;11&lt;/pre&gt;&lt;pre&gt;删除试卷&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="1700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.181;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-93" target="qhTVunu0ynOkuBu6gDeH-78">
@@ -847,7 +847,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhTVunu0ynOkuBu6gDeH-93" value="&lt;pre&gt;4&lt;/pre&gt;&lt;pre&gt;查询题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-93" value="&lt;pre&gt;12&lt;/pre&gt;&lt;pre&gt;查询题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="1800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-100" value="&lt;pre&gt;添加题目&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
