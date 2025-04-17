@@ -406,9 +406,6 @@
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-7" value="创建题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="560" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-8" value="查看题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="460" width="120" height="80" as="geometry" />
         </mxCell>
@@ -443,7 +440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pK8HPNjczgx-komEggeK-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="210" width="520" height="980" as="geometry" />
+          <mxGeometry x="280" y="210" width="520" height="980" as="geometry" />
         </mxCell>
         <mxCell id="pK8HPNjczgx-komEggeK-2" value="系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
           <mxGeometry x="30" y="20" width="60" height="30" as="geometry" />
@@ -467,7 +464,7 @@
           <mxGeometry x="50" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-19" value="查看试卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="20" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-18" value="移除试卷题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
           <mxGeometry x="290" y="580" width="120" height="80" as="geometry" />
@@ -497,7 +494,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-13" value="修改试卷信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="30" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-7" value="创建题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
+          <mxGeometry x="220" y="335" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pK8HPNjczgx-komEggeK-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.247;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-15">
           <mxGeometry relative="1" as="geometry" />
