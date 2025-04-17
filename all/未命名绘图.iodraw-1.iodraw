@@ -413,8 +413,11 @@
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-13" value="修改试卷信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="990" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-14" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-15" value="删除试卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-16" value="添加题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="960" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
