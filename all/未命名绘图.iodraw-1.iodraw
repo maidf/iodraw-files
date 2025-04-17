@@ -571,6 +571,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-9" target="qhTVunu0ynOkuBu6gDeH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-25" value="&lt;pre&gt;题库信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-24">
+          <mxGeometry x="0.3149" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-9" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -591,7 +599,7 @@
         <mxCell id="qhTVunu0ynOkuBu6gDeH-14" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="590" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qhTVunu0ynOkuBu6gDeH-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-21" value="&lt;pre&gt;修改题库&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="360" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
