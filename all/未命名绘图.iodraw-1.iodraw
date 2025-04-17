@@ -397,17 +397,8 @@
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-3" value="创建题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-4" value="修改题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="560" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-5" value="删除题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="670" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-6" value="查看题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-7" value="创建题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="120" height="80" as="geometry" />
@@ -515,7 +506,16 @@
           <mxGeometry x="260" y="210" width="520" height="980" as="geometry" />
         </mxCell>
         <mxCell id="pK8HPNjczgx-komEggeK-2" value="系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="50" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-6" value="查看题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
+          <mxGeometry x="30" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-3" value="创建题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
+          <mxGeometry x="50" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-4" value="修改题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
+          <mxGeometry x="60" y="295" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
