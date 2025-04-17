@@ -415,19 +415,19 @@
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-29" value="&#xa;移除试卷题目&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-3">
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-29" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="500" as="sourcePoint" />
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-4">
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-30" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="500" as="sourcePoint" />
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-5">
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-1" target="a1lPoQYh-OkVn9wCAFwj-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="500" as="sourcePoint" />
             <mxPoint x="440" y="450" as="targetPoint" />
