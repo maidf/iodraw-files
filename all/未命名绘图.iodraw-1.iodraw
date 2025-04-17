@@ -206,6 +206,11 @@
         <mxCell id="KLbnFtTYCvtpczK9o5nv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-62" target="KLbnFtTYCvtpczK9o5nv-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-96" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-81">
+          <mxGeometry x="-0.1617" relative="1" as="geometry">
+            <mxPoint x="45" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-62" value="&lt;strong&gt;用户数据库&lt;/strong&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="640" width="120" height="70" as="geometry" />
         </mxCell>
@@ -266,11 +271,6 @@
         </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-93" value="&lt;pre&gt;新信息&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-92">
           <mxGeometry x="0.2389" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-95" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-92">
-          <mxGeometry x="0.6416" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
