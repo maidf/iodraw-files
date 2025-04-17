@@ -16,14 +16,8 @@
         <mxCell id="GSDxpnkatiGItII1ybcR-5" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-6" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="580" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-7" value="更新个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="530" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-9" value="注销账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,24 +28,6 @@
         <mxCell id="GSDxpnkatiGItII1ybcR-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="380" as="sourcePoint" />
-            <mxPoint x="440" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
-            <mxPoint x="440" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
-            <mxPoint x="440" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.708;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -66,6 +42,12 @@
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-8" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
           <mxGeometry x="30" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GSDxpnkatiGItII1ybcR-9" value="注销账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
+          <mxGeometry x="40" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GSDxpnkatiGItII1ybcR-6" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
+          <mxGeometry x="80" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
