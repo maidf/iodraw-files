@@ -678,7 +678,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-46" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-47" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-49" target="qhTVunu0ynOkuBu6gDeH-52">
           <mxGeometry relative="1" as="geometry" />
@@ -689,7 +689,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-49" value="&lt;pre&gt;1&lt;/pre&gt;&lt;pre&gt;创建题库&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="370" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="1020" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-52" target="qhTVunu0ynOkuBu6gDeH-61">
           <mxGeometry relative="1" as="geometry" />
@@ -700,7 +700,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-52" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="600" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-55" target="qhTVunu0ynOkuBu6gDeH-52">
           <mxGeometry relative="1" as="geometry" />
@@ -711,7 +711,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-55" value="&lt;pre&gt;2&lt;/pre&gt;&lt;pre&gt;修改题库&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="370" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-58" target="qhTVunu0ynOkuBu6gDeH-52">
           <mxGeometry relative="1" as="geometry" />
@@ -722,11 +722,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-58" value="&lt;pre&gt;3&lt;/pre&gt;&lt;pre&gt;删除题库&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="1220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.181;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-61" target="qhTVunu0ynOkuBu6gDeH-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="950" as="targetPoint" />
+            <mxPoint x="590" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-60" value="&lt;pre&gt;题库详情&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-59">
@@ -735,7 +735,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-61" value="&lt;pre&gt;4&lt;/pre&gt;&lt;pre&gt;查询题库&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="1320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
