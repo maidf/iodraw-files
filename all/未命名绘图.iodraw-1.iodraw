@@ -466,7 +466,7 @@
             <mxPoint x="180" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-16" value="添加题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-16" value="添加试卷题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
           <mxGeometry x="310" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.075;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pK8HPNjczgx-komEggeK-1" source="a1lPoQYh-OkVn9wCAFwj-19" target="a1lPoQYh-OkVn9wCAFwj-16">
@@ -488,13 +488,13 @@
           <mxGeometry x="70" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-7" value="创建题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="270" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-10" value="删除题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="270" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-8" value="查看题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="250" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-9" value="修改题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
           <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
