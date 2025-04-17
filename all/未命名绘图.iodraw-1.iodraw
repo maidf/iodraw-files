@@ -122,7 +122,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.819;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-1">
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.819;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.263;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-1" target="KLbnFtTYCvtpczK9o5nv-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-25" value="重置密码请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-24">
+          <mxGeometry x="-0.1877" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="300" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
