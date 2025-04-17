@@ -197,10 +197,20 @@
           <mxGeometry x="540" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-72" target="KLbnFtTYCvtpczK9o5nv-62">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="730" />
+              <mxPoint x="600" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-76" value="&lt;pre&gt;登录结果&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-75">
+          <mxGeometry x="-0.1389" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-72" value="2&lt;div&gt;&lt;pre&gt;校验账号密码&lt;/pre&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="334" y="680" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
