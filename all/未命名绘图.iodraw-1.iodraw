@@ -179,6 +179,9 @@
         <mxCell id="KLbnFtTYCvtpczK9o5nv-57" value="&lt;pre&gt;1&lt;/pre&gt;&lt;pre&gt;注册处理&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="334" y="500" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-62" target="KLbnFtTYCvtpczK9o5nv-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-62" value="&lt;strong&gt;用户数据库&lt;/strong&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="640" width="120" height="70" as="geometry" />
         </mxCell>
@@ -196,11 +199,10 @@
         <mxCell id="KLbnFtTYCvtpczK9o5nv-66" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-72" target="KLbnFtTYCvtpczK9o5nv-62">
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-72" target="KLbnFtTYCvtpczK9o5nv-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="730" />
-              <mxPoint x="600" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
