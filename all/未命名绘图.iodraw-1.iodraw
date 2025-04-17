@@ -380,8 +380,11 @@
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="290" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-3" value="创建题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-4" value="修改题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
