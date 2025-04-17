@@ -734,8 +734,8 @@
             <mxPoint x="590" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhTVunu0ynOkuBu6gDeH-60" value="&lt;pre&gt;题库详情&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-59">
-          <mxGeometry x="0.007" relative="1" as="geometry">
+        <mxCell id="qhTVunu0ynOkuBu6gDeH-69" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhTVunu0ynOkuBu6gDeH-59">
+          <mxGeometry x="0.0301" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
