@@ -200,11 +200,14 @@
             <mxPoint x="440" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.938;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-37">
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.938;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-37" target="KLbnFtTYCvtpczK9o5nv-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="600" as="sourcePoint" />
             <mxPoint x="520" y="790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-42" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
