@@ -175,6 +175,11 @@
             <mxPoint x="440" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-36" value="&lt;code&gt;注册信息&lt;/code&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-35">
+          <mxGeometry x="-0.1288" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
