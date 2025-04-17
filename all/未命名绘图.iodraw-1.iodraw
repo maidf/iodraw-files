@@ -350,7 +350,12 @@
         <mxCell id="KLbnFtTYCvtpczK9o5nv-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-115" target="KLbnFtTYCvtpczK9o5nv-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-121" value="&lt;pre&gt;注销结果&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-120">
+          <mxGeometry x="-0.52" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-115" value="&lt;pre&gt;账号注销&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
