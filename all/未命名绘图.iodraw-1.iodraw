@@ -72,7 +72,7 @@
         <mxCell id="KLbnFtTYCvtpczK9o5nv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KLbnFtTYCvtpczK9o5nv-1" target="KLbnFtTYCvtpczK9o5nv-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-9" value="注册请求、登录请求、查看信息请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-6">
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KLbnFtTYCvtpczK9o5nv-6">
           <mxGeometry x="-0.1574" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
