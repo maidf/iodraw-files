@@ -488,10 +488,10 @@
           <mxGeometry x="70" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-7" value="创建题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="200" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-10" value="删除题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
-          <mxGeometry x="190" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-8" value="查看题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="pK8HPNjczgx-komEggeK-1">
           <mxGeometry x="210" y="150" width="120" height="80" as="geometry" />
