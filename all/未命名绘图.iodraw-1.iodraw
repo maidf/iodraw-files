@@ -175,10 +175,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-57" value="加密并存储用户数据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-58" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbnFtTYCvtpczK9o5nv-62" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
