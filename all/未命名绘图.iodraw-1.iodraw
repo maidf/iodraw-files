@@ -31,19 +31,25 @@
         <mxCell id="GSDxpnkatiGItII1ybcR-9" value="注销账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="GSDxpnkatiGItII1ybcR-9">
+        <mxCell id="GSDxpnkatiGItII1ybcR-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="350" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSDxpnkatiGItII1ybcR-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="GSDxpnkatiGItII1ybcR-8">
+        <mxCell id="GSDxpnkatiGItII1ybcR-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSDxpnkatiGItII1ybcR-1" target="GSDxpnkatiGItII1ybcR-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSDxpnkatiGItII1ybcR-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
