@@ -18,11 +18,14 @@
         <mxCell id="GSDxpnkatiGItII1ybcR-2" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
           <mxGeometry x="55" y="70" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Rnrs8Zuw7kT9c3GrXzTD-2" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="T4Ihz7HnN6s5JJPbkGPD-2" source="GSDxpnkatiGItII1ybcR-8" target="Rnrs8Zuw7kT9c3GrXzTD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-8" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
           <mxGeometry x="60" y="460" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-9" value="注销账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
-          <mxGeometry x="60" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GSDxpnkatiGItII1ybcR-6" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="T4Ihz7HnN6s5JJPbkGPD-2">
           <mxGeometry x="60" y="270" width="120" height="80" as="geometry" />
