@@ -181,10 +181,7 @@
           <mxGeometry x="570" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLbnFtTYCvtpczK9o5nv-62" value="&lt;strong&gt;用户数据库&lt;/strong&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KLbnFtTYCvtpczK9o5nv-63" value="&lt;strong&gt;用户缓存&lt;/strong&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
