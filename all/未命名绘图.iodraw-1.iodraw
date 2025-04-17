@@ -571,9 +571,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhTVunu0ynOkuBu6gDeH-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qhTVunu0ynOkuBu6gDeH-9" target="qhTVunu0ynOkuBu6gDeH-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qhTVunu0ynOkuBu6gDeH-9" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
         </mxCell>
