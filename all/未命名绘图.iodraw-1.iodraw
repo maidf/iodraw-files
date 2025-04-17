@@ -390,7 +390,7 @@
           <mxGeometry x="270" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-6" value="查看题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-7" value="创建题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="120" height="80" as="geometry" />
@@ -399,7 +399,7 @@
           <mxGeometry x="560" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-9" value="修改题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1lPoQYh-OkVn9wCAFwj-10" value="删除题目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="670" width="120" height="80" as="geometry" />
@@ -464,7 +464,7 @@
             <mxPoint x="440" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1lPoQYh-OkVn9wCAFwj-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="a1lPoQYh-OkVn9wCAFwj-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="a1lPoQYh-OkVn9wCAFwj-19" target="a1lPoQYh-OkVn9wCAFwj-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="900" as="sourcePoint" />
             <mxPoint x="440" y="850" as="targetPoint" />
