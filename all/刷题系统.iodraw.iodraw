@@ -908,7 +908,7 @@
           <mxGeometry x="80" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-7" value="查看系统统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
-          <mxGeometry x="280" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-8" value="查看答题记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
           <mxGeometry x="280" y="410" width="120" height="80" as="geometry" />
