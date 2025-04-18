@@ -895,6 +895,9 @@
         <mxCell id="smVeMx4CT3h13nAoKNlD-1" value="查看题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
           <mxGeometry x="70" y="110" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="smVeMx4CT3h13nAoKNlD-3" value="查看试卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
+          <mxGeometry x="80" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
