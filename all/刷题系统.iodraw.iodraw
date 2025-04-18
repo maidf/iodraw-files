@@ -883,6 +883,9 @@
         <mxCell id="smVeMx4CT3h13nAoKNlD-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qMxCod9de-eiO7ySfvwq-1" target="smVeMx4CT3h13nAoKNlD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="smVeMx4CT3h13nAoKNlD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qMxCod9de-eiO7ySfvwq-1" target="smVeMx4CT3h13nAoKNlD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qMxCod9de-eiO7ySfvwq-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="30" height="60" as="geometry" />
         </mxCell>
@@ -896,7 +899,7 @@
           <mxGeometry x="70" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-3" value="查看试卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
-          <mxGeometry x="70" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="465" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-4" value="随机刷题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
           <mxGeometry x="80" y="240" width="120" height="80" as="geometry" />
@@ -911,10 +914,10 @@
           <mxGeometry x="280" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-8" value="查看答题记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
-          <mxGeometry x="280" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-9" value="删除答题记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
-          <mxGeometry x="260" y="560" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="550" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
