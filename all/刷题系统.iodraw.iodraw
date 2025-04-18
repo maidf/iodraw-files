@@ -914,7 +914,7 @@
           <mxGeometry x="20" y="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-1" value="查看题库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
-          <mxGeometry x="70" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-3" value="查看试卷" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
           <mxGeometry x="80" y="500" width="120" height="80" as="geometry" />
@@ -929,7 +929,7 @@
           <mxGeometry x="70" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-7" value="查看系统统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
-          <mxGeometry x="260" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="smVeMx4CT3h13nAoKNlD-8" value="查看答题记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="qMxCod9de-eiO7ySfvwq-3">
           <mxGeometry x="270" y="320" width="120" height="80" as="geometry" />
