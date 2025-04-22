@@ -1045,7 +1045,7 @@
         <mxCell id="DuCdvxUh1RDCVQ4OrCH--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCdvxUh1RDCVQ4OrCH--1" target="OOeoTUr62_wMUVotlYUg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DuCdvxUh1RDCVQ4OrCH--17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DuCdvxUh1RDCVQ4OrCH--12">
+        <mxCell id="DuCdvxUh1RDCVQ4OrCH--17" value="答题记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DuCdvxUh1RDCVQ4OrCH--12">
           <mxGeometry x="-0.5267" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1085,6 +1085,9 @@
         </mxCell>
         <mxCell id="DuCdvxUh1RDCVQ4OrCH--3" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_rM9Z-sH2yXEuiE-8d4G-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
