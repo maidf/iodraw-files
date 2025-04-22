@@ -1114,8 +1114,8 @@
         <mxCell id="PprTLgzPhvMsEVDb0C5Z-1" value="&lt;div&gt;6&lt;/div&gt;随机刷题" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Non7ZB_FcPFj6DUrgNaR-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1040" width="80" height="80" as="geometry" />
+        <mxCell id="Non7ZB_FcPFj6DUrgNaR-1" value="7&lt;div&gt;每日一题&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
