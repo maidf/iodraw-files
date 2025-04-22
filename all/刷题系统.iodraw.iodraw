@@ -1087,7 +1087,10 @@
           <mxGeometry x="620" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_rM9Z-sH2yXEuiE-8d4G-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_rM9Z-sH2yXEuiE-8d4G-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
