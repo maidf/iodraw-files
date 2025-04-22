@@ -1120,8 +1120,11 @@
         <mxCell id="Non7ZB_FcPFj6DUrgNaR-2" value="8&lt;div&gt;考试&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="1340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Non7ZB_FcPFj6DUrgNaR-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Non7ZB_FcPFj6DUrgNaR-3" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Non7ZB_FcPFj6DUrgNaR-5" value="试卷数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
