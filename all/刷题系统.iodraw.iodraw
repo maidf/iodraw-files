@@ -982,6 +982,11 @@
             <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FMyucuEjIPObvFdApC7b-2" value="考试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FMyucuEjIPObvFdApC7b-1">
+          <mxGeometry x="-0.158" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
