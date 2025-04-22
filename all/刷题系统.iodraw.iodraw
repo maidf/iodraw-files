@@ -1111,8 +1111,11 @@
         <mxCell id="AuTp_rmrWoQ-Dr4boL5E-2" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PprTLgzPhvMsEVDb0C5Z-1" value="随机刷题" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="PprTLgzPhvMsEVDb0C5Z-1" value="&lt;div&gt;6&lt;/div&gt;随机刷题" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Non7ZB_FcPFj6DUrgNaR-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
