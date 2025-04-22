@@ -1114,8 +1114,16 @@
         <mxCell id="Non7ZB_FcPFj6DUrgNaR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PprTLgzPhvMsEVDb0C5Z-1" target="_rM9Z-sH2yXEuiE-8d4G-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Non7ZB_FcPFj6DUrgNaR-12" value="随机题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Non7ZB_FcPFj6DUrgNaR-11">
+          <mxGeometry x="-0.1491" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PprTLgzPhvMsEVDb0C5Z-1" value="&lt;div&gt;6&lt;/div&gt;随机刷题" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Non7ZB_FcPFj6DUrgNaR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Non7ZB_FcPFj6DUrgNaR-1" target="_rM9Z-sH2yXEuiE-8d4G-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Non7ZB_FcPFj6DUrgNaR-1" value="7&lt;div&gt;每日一题&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="1230" width="80" height="80" as="geometry" />
