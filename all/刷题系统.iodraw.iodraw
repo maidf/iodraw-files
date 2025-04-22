@@ -996,7 +996,10 @@
           <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nlgZydU9jc2XoZGFrn5y-1" value="获取题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYWug9vbZQcsLkV0jN8m-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
