@@ -995,8 +995,8 @@
         <mxCell id="OOeoTUr62_wMUVotlYUg-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nlgZydU9jc2XoZGFrn5y-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="330" y="530" width="80" height="80" as="geometry" />
+        <mxCell id="nlgZydU9jc2XoZGFrn5y-1" value="获取题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
