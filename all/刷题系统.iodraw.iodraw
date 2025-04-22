@@ -959,9 +959,6 @@
         <mxCell id="PJwU-eVodq9c6_caXrrd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PJwU-eVodq9c6_caXrrd-4" target="PJwU-eVodq9c6_caXrrd-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2w0hre8-toOIJk5yBGL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJwU-eVodq9c6_caXrrd-4" target="PJwU-eVodq9c6_caXrrd-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PJwU-eVodq9c6_caXrrd-4" value="系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="390" y="320" width="80" height="80" as="geometry" />
         </mxCell>
