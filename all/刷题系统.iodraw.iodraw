@@ -998,6 +998,11 @@
         <mxCell id="SYWug9vbZQcsLkV0jN8m-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nlgZydU9jc2XoZGFrn5y-1" target="OOeoTUr62_wMUVotlYUg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SYWug9vbZQcsLkV0jN8m-5" value="题库列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SYWug9vbZQcsLkV0jN8m-4">
+          <mxGeometry x="-0.0833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nlgZydU9jc2XoZGFrn5y-1" value="获取题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="520" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1011,6 +1016,9 @@
         </mxCell>
         <mxCell id="SYWug9vbZQcsLkV0jN8m-1" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D65YGyuZ-dB6zILyWlIL-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
