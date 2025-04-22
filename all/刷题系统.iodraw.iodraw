@@ -1089,7 +1089,7 @@
         <mxCell id="AuTp_rmrWoQ-Dr4boL5E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rM9Z-sH2yXEuiE-8d4G-1" target="_rM9Z-sH2yXEuiE-8d4G-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuTp_rmrWoQ-Dr4boL5E-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AuTp_rmrWoQ-Dr4boL5E-3">
+        <mxCell id="AuTp_rmrWoQ-Dr4boL5E-4" value="记录id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AuTp_rmrWoQ-Dr4boL5E-3">
           <mxGeometry x="-0.0693" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
