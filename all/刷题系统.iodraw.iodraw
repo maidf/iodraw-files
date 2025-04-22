@@ -1026,8 +1026,14 @@
         <mxCell id="D65YGyuZ-dB6zILyWlIL-1" value="&lt;div&gt;2&lt;/div&gt;获取试卷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="620" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DuCdvxUh1RDCVQ4OrCH--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D65YGyuZ-dB6zILyWlIL-2" target="OOeoTUr62_wMUVotlYUg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D65YGyuZ-dB6zILyWlIL-2" value="&lt;div&gt;3&lt;/div&gt;获取系统统计" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DuCdvxUh1RDCVQ4OrCH--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCdvxUh1RDCVQ4OrCH--1" target="OOeoTUr62_wMUVotlYUg-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DuCdvxUh1RDCVQ4OrCH--1" value="4&lt;div&gt;获取答题记录&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="830" width="80" height="80" as="geometry" />
