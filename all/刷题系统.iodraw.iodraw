@@ -1014,6 +1014,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DuCdvxUh1RDCVQ4OrCH--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYWug9vbZQcsLkV0jN8m-1" target="D65YGyuZ-dB6zILyWlIL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SYWug9vbZQcsLkV0jN8m-1" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1038,8 +1041,11 @@
         <mxCell id="DuCdvxUh1RDCVQ4OrCH--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCdvxUh1RDCVQ4OrCH--3" target="DuCdvxUh1RDCVQ4OrCH--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DuCdvxUh1RDCVQ4OrCH--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCdvxUh1RDCVQ4OrCH--3" target="D65YGyuZ-dB6zILyWlIL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DuCdvxUh1RDCVQ4OrCH--3" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
