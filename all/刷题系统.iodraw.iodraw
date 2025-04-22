@@ -1017,8 +1017,11 @@
         <mxCell id="SYWug9vbZQcsLkV0jN8m-1" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D65YGyuZ-dB6zILyWlIL-1" value="获取试卷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="D65YGyuZ-dB6zILyWlIL-1" value="&lt;div&gt;2&lt;/div&gt;获取试卷" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D65YGyuZ-dB6zILyWlIL-2" value="获取排行榜" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="770" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
