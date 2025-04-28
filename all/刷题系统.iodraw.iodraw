@@ -1242,9 +1242,9 @@
           <mxGeometry x="100" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-3" value="刷题系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="370" width="120" height="220" as="geometry" />
+          <mxGeometry x="460" y="350" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iSCMpRP44_6FIjZRmIDO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1">
+        <mxCell id="iSCMpRP44_6FIjZRmIDO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.069;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="370" as="targetPoint" />
           </mxGeometry>
@@ -1261,6 +1261,9 @@
           <mxGeometry x="-0.1622" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jBIvckhwL0AKDqKuLqpV-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.019;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
