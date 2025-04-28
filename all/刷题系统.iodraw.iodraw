@@ -1265,6 +1265,11 @@
         <mxCell id="taxRW3114wdPPDpwHKZc-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.031;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="taxRW3114wdPPDpwHKZc-7" value="更新题库请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-6">
+          <mxGeometry x="-0.2705" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
