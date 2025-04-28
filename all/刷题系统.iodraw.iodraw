@@ -1236,22 +1236,6 @@
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-3" value="刷题系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="360" width="120" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.076;exitDx=0;exitDy=0;entryX=0.036;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-2" value="注册信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bsuS_rFLjB0pv1RixW-S-1">
-          <mxGeometry x="-0.1406" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-4" value="登录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bsuS_rFLjB0pv1RixW-S-3">
-          <mxGeometry x="-0.1812" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bsuS_rFLjB0pv1RixW-S-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
