@@ -1276,8 +1276,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9o4-l0qkXdfsiQgHGsoc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
+        <mxCell id="9o4-l0qkXdfsiQgHGsoc-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9o4-l0qkXdfsiQgHGsoc-5" value="查看统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9o4-l0qkXdfsiQgHGsoc-4">
+          <mxGeometry x="-0.2528" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
