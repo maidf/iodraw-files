@@ -1228,64 +1228,6 @@
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-3" value="刷题系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="360" width="120" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.981;exitY=0.562;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-2" value="查看试卷请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-1">
-          <mxGeometry x="-0.2415" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.025;exitY=0.647;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="458" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-5" value="创建试卷请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-4">
-          <mxGeometry x="-0.2795" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.327;exitDx=0;exitDy=0;entryX=0.031;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-7" value="更新题库请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-6">
-          <mxGeometry x="-0.2705" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.031;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-9" value="删除题库请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-8">
-          <mxGeometry x="-0.3067" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-11" value="更新试卷请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-10">
-          <mxGeometry x="-0.4094" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.025;exitY=0.86;exitDx=0;exitDy=0;entryX=0.042;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-13" value="删除试卷请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-12">
-          <mxGeometry x="-0.3751" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.969;exitY=0.953;exitDx=0;exitDy=0;entryX=0.092;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="taxRW3114wdPPDpwHKZc-15" value="创建题目请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="taxRW3114wdPPDpwHKZc-14">
-          <mxGeometry x="-0.3745" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
