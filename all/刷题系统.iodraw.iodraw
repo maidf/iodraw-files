@@ -1227,6 +1227,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iuIiCeI_0EyKoJI-XcJp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1236,8 +1239,13 @@
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-3" value="刷题系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="370" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iSCMpRP44_6FIjZRmIDO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
+        <mxCell id="iSCMpRP44_6FIjZRmIDO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iSCMpRP44_6FIjZRmIDO-4" value="登录请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iSCMpRP44_6FIjZRmIDO-3">
+          <mxGeometry x="-0.1107" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
