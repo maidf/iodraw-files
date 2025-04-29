@@ -1263,8 +1263,8 @@
         <mxCell id="bsuS_rFLjB0pv1RixW-S-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.019;entryY=0.451;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-8" value="考试答案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.3424" y="-4" relative="1" as="geometry">
+        <mxCell id="QiZzDjuEWqFaWndtf178-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bsuS_rFLjB0pv1RixW-S-7">
+          <mxGeometry x="-0.3652" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
