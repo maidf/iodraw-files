@@ -1225,11 +1225,6 @@
         <mxCell id="bsuS_rFLjB0pv1RixW-S-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.031;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-10" value="创建题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-9" vertex="1" connectable="0">
-          <mxGeometry x="-0.2167" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="585" width="120" height="150" as="geometry" />
         </mxCell>
