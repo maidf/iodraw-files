@@ -1366,6 +1366,11 @@
         <mxCell id="E08xiZ2pdo1-DFSTaBJh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="E08xiZ2pdo1-DFSTaBJh-1" target="LWEnXNp2kmS8BjPHcYD6-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="21bCamnLl9j01dQvA2nd-5" value="答题信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E08xiZ2pdo1-DFSTaBJh-2">
+          <mxGeometry x="0.1059" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E08xiZ2pdo1-DFSTaBJh-1" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
         </mxCell>
