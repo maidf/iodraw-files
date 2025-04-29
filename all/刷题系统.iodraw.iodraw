@@ -1401,6 +1401,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PTc9hoFO-pqgdlPpLM5s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PTc9hoFO-pqgdlPpLM5s-4" target="PTc9hoFO-pqgdlPpLM5s-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTc9hoFO-pqgdlPpLM5s-13" value="答题信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PTc9hoFO-pqgdlPpLM5s-12">
+          <mxGeometry x="-0.1185" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PTc9hoFO-pqgdlPpLM5s-4" value="1.1&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取答题信息&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="700" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1427,7 +1435,7 @@
           <mxGeometry x="760" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTc9hoFO-pqgdlPpLM5s-11" value="1.2&lt;div&gt;计算统计结果&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="770" width="80" height="80" as="geometry" />
+          <mxGeometry x="530" y="700" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
