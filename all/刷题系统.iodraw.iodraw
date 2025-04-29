@@ -1357,6 +1357,9 @@
         <mxCell id="0rXDhKwnXfhEO8ZmgXCs-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LWEnXNp2kmS8BjPHcYD6-7" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
