@@ -1225,7 +1225,7 @@
         <mxCell id="bsuS_rFLjB0pv1RixW-S-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.031;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-10" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-9" vertex="1" connectable="0">
+        <mxCell id="bsuS_rFLjB0pv1RixW-S-10" value="创建题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2167" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1263,18 +1263,13 @@
         <mxCell id="bsuS_rFLjB0pv1RixW-S-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.019;entryY=0.451;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QiZzDjuEWqFaWndtf178-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bsuS_rFLjB0pv1RixW-S-7">
+        <mxCell id="QiZzDjuEWqFaWndtf178-2" value="考试事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bsuS_rFLjB0pv1RixW-S-7">
           <mxGeometry x="-0.3652" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bsuS_rFLjB0pv1RixW-S-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.3;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-12" value="试卷信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-11" vertex="1" connectable="0">
-          <mxGeometry x="-0.2776" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="bsuS_rFLjB0pv1RixW-S-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
