@@ -1358,13 +1358,13 @@
           <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LWEnXNp2kmS8BjPHcYD6-15" value="1&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取统计信息&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E08xiZ2pdo1-DFSTaBJh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E08xiZ2pdo1-DFSTaBJh-1" target="LWEnXNp2kmS8BjPHcYD6-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E08xiZ2pdo1-DFSTaBJh-1" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
