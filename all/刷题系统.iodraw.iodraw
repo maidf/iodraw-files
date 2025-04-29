@@ -1473,6 +1473,11 @@
         <mxCell id="iig0pGCUIMJlBqaaQrfm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iig0pGCUIMJlBqaaQrfm-3" target="iig0pGCUIMJlBqaaQrfm-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R9ERRqDTfvPEfK5uMUIA-2" value="获取题目请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iig0pGCUIMJlBqaaQrfm-1">
+          <mxGeometry x="-0.3476" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iig0pGCUIMJlBqaaQrfm-3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="610" width="120" height="60" as="geometry" />
         </mxCell>
