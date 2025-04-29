@@ -1393,7 +1393,7 @@
         <mxCell id="PTc9hoFO-pqgdlPpLM5s-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PTc9hoFO-pqgdlPpLM5s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PTc9hoFO-pqgdlPpLM5s-4" target="PTc9hoFO-pqgdlPpLM5s-10">
+        <mxCell id="PTc9hoFO-pqgdlPpLM5s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PTc9hoFO-pqgdlPpLM5s-11" target="PTc9hoFO-pqgdlPpLM5s-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PTc9hoFO-pqgdlPpLM5s-3" value="统计结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PTc9hoFO-pqgdlPpLM5s-2">
@@ -1424,7 +1424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PTc9hoFO-pqgdlPpLM5s-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTc9hoFO-pqgdlPpLM5s-11" value="1.2&lt;div&gt;计算统计结果&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550" y="770" width="80" height="80" as="geometry" />
