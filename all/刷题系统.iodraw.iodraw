@@ -1360,8 +1360,8 @@
         <mxCell id="LWEnXNp2kmS8BjPHcYD6-15" value="1&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取统计信息&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LWEnXNp2kmS8BjPHcYD6-16" value="题目数据库" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="100" height="30" as="geometry" />
+        <mxCell id="LWEnXNp2kmS8BjPHcYD6-16" value="答题数据库" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
