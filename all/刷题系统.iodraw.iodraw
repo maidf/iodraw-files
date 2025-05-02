@@ -1222,7 +1222,7 @@
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="320" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.031;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+        <mxCell id="bsuS_rFLjB0pv1RixW-S-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.184;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiZzDjuEWqFaWndtf178-6" value="管理题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-9" vertex="1" connectable="0">
@@ -1268,7 +1268,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.362;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+        <mxCell id="bsuS_rFLjB0pv1RixW-S-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.424;exitDx=0;exitDy=0;entryX=0;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiZzDjuEWqFaWndtf178-7" value="管理试卷" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-11" vertex="1" connectable="0">
