@@ -1397,7 +1397,7 @@
         <mxCell id="qSqmUJ-lgMGDkR2h9sLV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jY4cnmVqM2vUajklWO_1-1" target="jY4cnmVqM2vUajklWO_1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-1" value="答题事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qSqmUJ-lgMGDkR2h9sLV-1">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-1" value="答题事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qSqmUJ-lgMGDkR2h9sLV-1" vertex="1" connectable="0">
           <mxGeometry x="0.0238" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1438,10 +1438,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iig0pGCUIMJlBqaaQrfm-6" target="iig0pGCUIMJlBqaaQrfm-8">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iig0pGCUIMJlBqaaQrfm-6" target="iig0pGCUIMJlBqaaQrfm-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q9OC87tvT8MYL-bbBwU--1" value="题目+答案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bFUx9GZPQdh1mMaEHMzF-8">
+        <mxCell id="Q9OC87tvT8MYL-bbBwU--1" value="题目+答案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bFUx9GZPQdh1mMaEHMzF-8" vertex="1" connectable="0">
           <mxGeometry x="-0.159" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1452,10 +1452,10 @@
         <mxCell id="iig0pGCUIMJlBqaaQrfm-7" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iig0pGCUIMJlBqaaQrfm-8" target="bFUx9GZPQdh1mMaEHMzF-5">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iig0pGCUIMJlBqaaQrfm-8" target="bFUx9GZPQdh1mMaEHMzF-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-7" value="答题记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bFUx9GZPQdh1mMaEHMzF-6">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-7" value="答题记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bFUx9GZPQdh1mMaEHMzF-6" vertex="1" connectable="0">
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1463,18 +1463,18 @@
         <mxCell id="iig0pGCUIMJlBqaaQrfm-8" value="2.2&lt;div&gt;比较答案&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="530" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bFUx9GZPQdh1mMaEHMzF-2" target="iig0pGCUIMJlBqaaQrfm-6">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bFUx9GZPQdh1mMaEHMzF-2" target="iig0pGCUIMJlBqaaQrfm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-4" value="题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bFUx9GZPQdh1mMaEHMzF-3">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-4" value="题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bFUx9GZPQdh1mMaEHMzF-3" vertex="1" connectable="0">
           <mxGeometry y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-2" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-2" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bFUx9GZPQdh1mMaEHMzF-5" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bFUx9GZPQdh1mMaEHMzF-5" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="510" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -1598,7 +1598,7 @@
         <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-2" value="添加" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-2" value="&lt;div&gt;4&lt;/div&gt;添加" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="390" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
