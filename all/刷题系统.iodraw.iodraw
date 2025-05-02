@@ -1937,7 +1937,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-8" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;题库管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="9tSVT1qwcOjv2qpShJLK-8" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;题目管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9tSVT1qwcOjv2qpShJLK-9" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
@@ -2005,11 +2005,6 @@
         </mxCell>
         <mxCell id="9tSVT1qwcOjv2qpShJLK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.681;exitY=-0.044;exitDx=0;exitDy=0;entryX=0.771;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-9" target="9tSVT1qwcOjv2qpShJLK-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-27" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-26">
-          <mxGeometry x="-0.0745" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
