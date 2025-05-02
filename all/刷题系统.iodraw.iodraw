@@ -1601,7 +1601,7 @@
         <mxCell id="V7uonjQGyy2O_dkgFB0R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H1YDxd4FfhzA6TOQ7yZ9-2" target="V7uonjQGyy2O_dkgFB0R-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5HdftaEplCtDfnCS1fMr-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V7uonjQGyy2O_dkgFB0R-2">
+        <mxCell id="5HdftaEplCtDfnCS1fMr-13" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V7uonjQGyy2O_dkgFB0R-2">
           <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1653,6 +1653,9 @@
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-12" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="870" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
