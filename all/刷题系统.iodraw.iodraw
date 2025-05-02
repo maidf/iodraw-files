@@ -1691,6 +1691,9 @@
         <mxCell id="mGL7OC2np15f0tzkDrK2-1" value="4.3&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="790" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mGL7OC2np15f0tzkDrK2-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="747" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
