@@ -1321,12 +1321,7 @@
             <mxPoint x="637" y="639.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-13" value="创建试卷结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-12" vertex="1" connectable="0">
-          <mxGeometry x="-0.312" y="-4" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="Ok5rAGt4HAEtI8o3Ebm--5" edge="1">
+        <mxCell id="2tr5mArc6HaJdwd260pj-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.981;exitY=0.828;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.852;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="Ok5rAGt4HAEtI8o3Ebm--5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="638.3199999999999" y="677.3" as="targetPoint" />
           </mxGeometry>
