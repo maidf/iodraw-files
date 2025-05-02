@@ -1513,7 +1513,7 @@
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Td9qqFjvKWsUzoHFLi2K-10" target="Td9qqFjvKWsUzoHFLi2K-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Td9qqFjvKWsUzoHFLi2K-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Td9qqFjvKWsUzoHFLi2K-8">
+        <mxCell id="Td9qqFjvKWsUzoHFLi2K-27" value="考试事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Td9qqFjvKWsUzoHFLi2K-8">
           <mxGeometry x="-0.219" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1524,6 +1524,11 @@
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Td9qqFjvKWsUzoHFLi2K-19" target="Td9qqFjvKWsUzoHFLi2K-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Td9qqFjvKWsUzoHFLi2K-28" value="考试结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Td9qqFjvKWsUzoHFLi2K-11">
+          <mxGeometry x="-0.1744" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Td9qqFjvKWsUzoHFLi2K-15" target="Td9qqFjvKWsUzoHFLi2K-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1532,7 +1537,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Td9qqFjvKWsUzoHFLi2K-15" value="2.1&lt;div&gt;获取题目&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Td9qqFjvKWsUzoHFLi2K-15" value="2.1&lt;div&gt;获取试卷题目&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-16" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
