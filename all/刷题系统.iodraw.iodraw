@@ -1659,7 +1659,7 @@
           <mxGeometry x="370" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-12" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXLyYdm2bINIJoBLGUgJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-21" target="5HdftaEplCtDfnCS1fMr-10">
           <mxGeometry relative="1" as="geometry" />
