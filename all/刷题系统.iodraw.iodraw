@@ -1601,8 +1601,8 @@
         <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-2" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;题库管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V7uonjQGyy2O_dkgFB0R-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="V7uonjQGyy2O_dkgFB0R-1" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
