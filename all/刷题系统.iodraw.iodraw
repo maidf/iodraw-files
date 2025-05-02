@@ -1654,13 +1654,13 @@
           <mxGeometry x="350" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-11" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-12" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-14" value="4.2&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="334" y="920" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
