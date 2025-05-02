@@ -1568,6 +1568,9 @@
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-23" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Td9qqFjvKWsUzoHFLi2K-30" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
