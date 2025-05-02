@@ -1987,8 +1987,10 @@
         <mxCell id="9tSVT1qwcOjv2qpShJLK-23" value="&lt;div&gt;6.1&lt;/div&gt;获取题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-23" target="9tSVT1qwcOjv2qpShJLK-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9tSVT1qwcOjv2qpShJLK-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.763;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9tSVT1qwcOjv2qpShJLK-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="770" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9tSVT1qwcOjv2qpShJLK-25" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-24">
           <mxGeometry x="-0.0737" relative="1" as="geometry">
