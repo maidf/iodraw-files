@@ -1921,14 +1921,6 @@
         <mxCell id="9tSVT1qwcOjv2qpShJLK-3" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.288;exitY=0.95;exitDx=0;exitDy=0;entryX=0.358;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-8" target="9tSVT1qwcOjv2qpShJLK-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-5" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-4">
-          <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9tSVT1qwcOjv2qpShJLK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-8" target="9tSVT1qwcOjv2qpShJLK-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2003,7 +1995,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.681;exitY=-0.044;exitDx=0;exitDy=0;entryX=0.771;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-9" target="9tSVT1qwcOjv2qpShJLK-8">
+        <mxCell id="9tSVT1qwcOjv2qpShJLK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-9" target="9tSVT1qwcOjv2qpShJLK-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
