@@ -1311,8 +1311,8 @@
             <mxPoint x="639.04" y="589.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-14" value="创建题库结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-10" vertex="1" connectable="0">
-          <mxGeometry x="-0.3325" y="2" relative="1" as="geometry">
+        <mxCell id="uhlkwxWCEqVS42J_uwLI-1" value="处理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tr5mArc6HaJdwd260pj-10">
+          <mxGeometry x="-0.3615" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
