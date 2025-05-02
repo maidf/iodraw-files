@@ -1238,7 +1238,7 @@
             <mxPoint x="660" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--2" value="记录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tr5mArc6HaJdwd260pj-3">
+        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--2" value="记录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-3" vertex="1" connectable="0">
           <mxGeometry x="-0.2581" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1291,7 +1291,7 @@
         <mxCell id="9o4-l0qkXdfsiQgHGsoc-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--1" value="查看记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9o4-l0qkXdfsiQgHGsoc-4">
+        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--1" value="查看记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9o4-l0qkXdfsiQgHGsoc-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2601" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1336,10 +1336,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="420" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--5" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--5" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="570" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
@@ -1598,11 +1598,14 @@
         <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V7uonjQGyy2O_dkgFB0R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H1YDxd4FfhzA6TOQ7yZ9-2" target="V7uonjQGyy2O_dkgFB0R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-2" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;题库管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V7uonjQGyy2O_dkgFB0R-1" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
