@@ -1225,11 +1225,6 @@
         <mxCell id="bsuS_rFLjB0pv1RixW-S-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.184;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QiZzDjuEWqFaWndtf178-6" value="管理题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-9" vertex="1" connectable="0">
-          <mxGeometry x="-0.2578" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="570" width="120" height="90" as="geometry" />
         </mxCell>
@@ -1275,18 +1270,8 @@
         <mxCell id="bsuS_rFLjB0pv1RixW-S-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.424;exitDx=0;exitDy=0;entryX=0;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QiZzDjuEWqFaWndtf178-7" value="管理试卷" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-11" vertex="1" connectable="0">
-          <mxGeometry x="-0.2696" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bsuS_rFLjB0pv1RixW-S-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.678;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.781;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QiZzDjuEWqFaWndtf178-8" value="管理题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.3659" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9o4-l0qkXdfsiQgHGsoc-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
