@@ -1233,16 +1233,20 @@
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="600" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2tr5mArc6HaJdwd260pj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="405" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ok5rAGt4HAEtI8o3Ebm--2" value="记录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tr5mArc6HaJdwd260pj-3">
           <mxGeometry x="-0.2581" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2tr5mArc6HaJdwd260pj-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="475" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-8" value="考试结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-7" vertex="1" connectable="0">
           <mxGeometry x="-0.273" y="-4" relative="1" as="geometry">
@@ -1292,14 +1296,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="370" width="120" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="585" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.333;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2tr5mArc6HaJdwd260pj-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.333;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-9" value="答题结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-5" vertex="1" connectable="0">
           <mxGeometry x="-0.2575" y="1" relative="1" as="geometry">
@@ -1331,7 +1334,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ok5rAGt4HAEtI8o3Ebm--3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="120" height="90" as="geometry" />
+          <mxGeometry x="920" y="410" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
