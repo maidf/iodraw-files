@@ -1913,7 +1913,7 @@
         <mxCell id="9tSVT1qwcOjv2qpShJLK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-3" target="9tSVT1qwcOjv2qpShJLK-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-1">
+        <mxCell id="9tSVT1qwcOjv2qpShJLK-28" value="管理题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-1">
           <mxGeometry x="-0.2333" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1949,8 +1949,8 @@
         <mxCell id="9tSVT1qwcOjv2qpShJLK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-13" target="9tSVT1qwcOjv2qpShJLK-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-12" value="管理题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-11">
-          <mxGeometry x="-0.0926" relative="1" as="geometry">
+        <mxCell id="9tSVT1qwcOjv2qpShJLK-29" value="管理题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-11">
+          <mxGeometry x="-0.2467" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
