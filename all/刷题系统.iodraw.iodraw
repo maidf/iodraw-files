@@ -1689,7 +1689,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mGL7OC2np15f0tzkDrK2-1" value="4.3&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="770" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="790" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
