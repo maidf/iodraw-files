@@ -1697,10 +1697,13 @@
         <mxCell id="5HdftaEplCtDfnCS1fMr-21" value="&lt;div&gt;4.2&lt;/div&gt;创建题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="CYRDMy1DYBIsV-uK7jcz-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYRDMy1DYBIsV-uK7jcz-2" target="CYRDMy1DYBIsV-uK7jcz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CYRDMy1DYBIsV-uK7jcz-2" value="4.4&lt;div&gt;删除题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="820" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CYRDMy1DYBIsV-uK7jcz-4" value="&lt;div&gt;4.5&lt;/div&gt;处理结果" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CYRDMy1DYBIsV-uK7jcz-4" value="&lt;div&gt;4.5&lt;/div&gt;操作数据库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="630" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
