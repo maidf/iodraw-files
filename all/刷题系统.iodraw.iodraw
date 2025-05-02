@@ -1688,13 +1688,18 @@
         <mxCell id="CYRDMy1DYBIsV-uK7jcz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-14" target="CYRDMy1DYBIsV-uK7jcz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CYRDMy1DYBIsV-uK7jcz-12" value="修改信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYRDMy1DYBIsV-uK7jcz-9">
+          <mxGeometry x="-0.0952" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-14" value="4.3&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CYRDMy1DYBIsV-uK7jcz-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-21" target="CYRDMy1DYBIsV-uK7jcz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYRDMy1DYBIsV-uK7jcz-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYRDMy1DYBIsV-uK7jcz-8">
+        <mxCell id="CYRDMy1DYBIsV-uK7jcz-11" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYRDMy1DYBIsV-uK7jcz-8">
           <mxGeometry x="-0.2494" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1704,6 +1709,11 @@
         </mxCell>
         <mxCell id="CYRDMy1DYBIsV-uK7jcz-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYRDMy1DYBIsV-uK7jcz-2" target="CYRDMy1DYBIsV-uK7jcz-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYRDMy1DYBIsV-uK7jcz-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYRDMy1DYBIsV-uK7jcz-10">
+          <mxGeometry x="-0.1038" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CYRDMy1DYBIsV-uK7jcz-2" value="4.4&lt;div&gt;删除题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="820" width="80" height="80" as="geometry" />
