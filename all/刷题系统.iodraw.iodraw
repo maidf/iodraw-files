@@ -1660,7 +1660,7 @@
         <mxCell id="8JjjEPGsC6TS85j6LxsL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H1YDxd4FfhzA6TOQ7yZ9-1" target="H1YDxd4FfhzA6TOQ7yZ9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4r3LtLzeiKIZAoMSMcGQ-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JjjEPGsC6TS85j6LxsL-1">
+        <mxCell id="4r3LtLzeiKIZAoMSMcGQ-1" value="创建题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8JjjEPGsC6TS85j6LxsL-1">
           <mxGeometry x="-0.1381" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1696,8 +1696,8 @@
         <mxCell id="5HdftaEplCtDfnCS1fMr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-6" target="5HdftaEplCtDfnCS1fMr-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5HdftaEplCtDfnCS1fMr-5" value="管理题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-4">
-          <mxGeometry x="-0.0926" relative="1" as="geometry">
+        <mxCell id="4r3LtLzeiKIZAoMSMcGQ-2" value="创建题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-4">
+          <mxGeometry x="-0.1933" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
