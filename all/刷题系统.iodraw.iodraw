@@ -1231,7 +1231,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="640" width="120" height="90" as="geometry" />
+          <mxGeometry x="100" y="600" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1250,7 +1250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-3" value="刷题系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="510" width="120" height="190" as="geometry" />
+          <mxGeometry x="414" y="460" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="bsuS_rFLjB0pv1RixW-S-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1293,10 +1293,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="320" width="120" height="140" as="geometry" />
+          <mxGeometry x="740" y="370" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="585" width="120" height="150" as="geometry" />
+          <mxGeometry x="730" y="585" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.333;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1329,6 +1329,9 @@
           <mxGeometry x="-0.3026" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
