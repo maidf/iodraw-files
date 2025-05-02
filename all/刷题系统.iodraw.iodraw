@@ -1601,6 +1601,14 @@
         <mxCell id="V7uonjQGyy2O_dkgFB0R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H1YDxd4FfhzA6TOQ7yZ9-2" target="V7uonjQGyy2O_dkgFB0R-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1YDxd4FfhzA6TOQ7yZ9-2" target="5HdftaEplCtDfnCS1fMr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-3" value="处理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-2">
+          <mxGeometry x="-0.1619" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H1YDxd4FfhzA6TOQ7yZ9-2" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;题库管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1609,6 +1617,37 @@
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-6" target="5HdftaEplCtDfnCS1fMr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-5" value="管理题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-4">
+          <mxGeometry x="-0.0926" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-6" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-10" target="5HdftaEplCtDfnCS1fMr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-10" target="5HdftaEplCtDfnCS1fMr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-9" value="处理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-8">
+          <mxGeometry x="-0.1619" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-10" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;题库管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-11" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-12" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
