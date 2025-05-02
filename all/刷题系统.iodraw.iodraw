@@ -1728,8 +1728,13 @@
         <mxCell id="sJ2sj1sEkrFyWWI1qd8u-8" value="&lt;div&gt;5&lt;/div&gt;&lt;div&gt;试卷管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wuPJuxSztnd09CL4oWCW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sJ2sj1sEkrFyWWI1qd8u-9" target="sJ2sj1sEkrFyWWI1qd8u-8">
+        <mxCell id="wuPJuxSztnd09CL4oWCW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.647;exitY=-0.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.721;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sJ2sj1sEkrFyWWI1qd8u-9" target="sJ2sj1sEkrFyWWI1qd8u-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPJuxSztnd09CL4oWCW-2" value="试卷信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wuPJuxSztnd09CL4oWCW-1">
+          <mxGeometry x="-0.3093" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sJ2sj1sEkrFyWWI1qd8u-9" value="试卷数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
