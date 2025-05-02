@@ -1607,6 +1607,9 @@
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-30" value="考试记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QImclSajycJ7tzwZOQus-1" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
