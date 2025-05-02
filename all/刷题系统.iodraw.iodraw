@@ -1236,7 +1236,7 @@
         <mxCell id="2tr5mArc6HaJdwd260pj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tr5mArc6HaJdwd260pj-3">
+        <mxCell id="Ok5rAGt4HAEtI8o3Ebm--2" value="记录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2tr5mArc6HaJdwd260pj-3">
           <mxGeometry x="-0.2581" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
