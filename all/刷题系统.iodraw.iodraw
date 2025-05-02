@@ -1691,11 +1691,6 @@
         <mxCell id="sJ2sj1sEkrFyWWI1qd8u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJ2sj1sEkrFyWWI1qd8u-3" target="sJ2sj1sEkrFyWWI1qd8u-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sJ2sj1sEkrFyWWI1qd8u-2" value="管理题库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJ2sj1sEkrFyWWI1qd8u-1">
-          <mxGeometry x="-0.0926" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sJ2sj1sEkrFyWWI1qd8u-3" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1753,7 +1748,7 @@
             <mxPoint x="460" y="810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJ2sj1sEkrFyWWI1qd8u-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJ2sj1sEkrFyWWI1qd8u-17">
+        <mxCell id="sJ2sj1sEkrFyWWI1qd8u-28" value="试卷信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJ2sj1sEkrFyWWI1qd8u-17">
           <mxGeometry x="-0.0502" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
