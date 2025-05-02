@@ -1667,6 +1667,9 @@
         <mxCell id="5HdftaEplCtDfnCS1fMr-14" value="4.2&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="640" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5HdftaEplCtDfnCS1fMr-21" value="添加题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
