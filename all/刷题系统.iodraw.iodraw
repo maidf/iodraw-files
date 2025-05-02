@@ -1356,7 +1356,7 @@
         <mxCell id="21bCamnLl9j01dQvA2nd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LWEnXNp2kmS8BjPHcYD6-15" target="21bCamnLl9j01dQvA2nd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O_nbQFyFoNR4iere-ZiB-1" value="记录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21bCamnLl9j01dQvA2nd-4">
+        <mxCell id="O_nbQFyFoNR4iere-ZiB-1" value="记录结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="21bCamnLl9j01dQvA2nd-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2833" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1378,7 +1378,7 @@
         <mxCell id="21bCamnLl9j01dQvA2nd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0rXDhKwnXfhEO8ZmgXCs-1" target="LWEnXNp2kmS8BjPHcYD6-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hsp8uQeX7Kiqsyxfk_Kt-1" value="查看记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21bCamnLl9j01dQvA2nd-1">
+        <mxCell id="Hsp8uQeX7Kiqsyxfk_Kt-1" value="查看记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="21bCamnLl9j01dQvA2nd-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1286" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1670,7 +1670,7 @@
           <mxGeometry x="670" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-14" value="4.3&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="490" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="480" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-21" value="&lt;div&gt;4.2&lt;/div&gt;添加题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="80" height="80" as="geometry" />
