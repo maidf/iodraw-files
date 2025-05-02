@@ -1665,11 +1665,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXLyYdm2bINIJoBLGUgJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-11" value="题库数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="830" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1678,6 +1673,14 @@
         </mxCell>
         <mxCell id="5HdftaEplCtDfnCS1fMr-21" value="&lt;div&gt;4.2&lt;/div&gt;创建题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXLyYdm2bINIJoBLGUgJ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5HdftaEplCtDfnCS1fMr-21" target="5HdftaEplCtDfnCS1fMr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXLyYdm2bINIJoBLGUgJ-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tXLyYdm2bINIJoBLGUgJ-2">
+          <mxGeometry x="-0.0737" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
