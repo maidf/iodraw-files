@@ -1777,11 +1777,6 @@
             <mxPoint x="400" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJ2sj1sEkrFyWWI1qd8u-25" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJ2sj1sEkrFyWWI1qd8u-24">
-          <mxGeometry x="-0.0737" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sJ2sj1sEkrFyWWI1qd8u-26" value="试卷数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="790" width="120" height="60" as="geometry" />
         </mxCell>
