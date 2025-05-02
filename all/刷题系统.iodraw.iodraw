@@ -1680,8 +1680,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ZjWVhKsb5430kSOJT_E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.771;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V7uonjQGyy2O_dkgFB0R-1" target="H1YDxd4FfhzA6TOQ7yZ9-2">
+        <mxCell id="5ZjWVhKsb5430kSOJT_E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.681;exitY=-0.044;exitDx=0;exitDy=0;entryX=0.771;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="V7uonjQGyy2O_dkgFB0R-1" target="H1YDxd4FfhzA6TOQ7yZ9-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZjWVhKsb5430kSOJT_E-2" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5ZjWVhKsb5430kSOJT_E-1">
+          <mxGeometry x="-0.0745" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
