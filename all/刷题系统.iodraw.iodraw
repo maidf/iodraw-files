@@ -1220,7 +1220,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="420" width="120" height="90" as="geometry" />
+          <mxGeometry x="130" y="430" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bsuS_rFLjB0pv1RixW-S-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.184;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1231,7 +1231,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wuHfcfHNjp_KwFN7KW-R-2" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="600" width="120" height="90" as="geometry" />
+          <mxGeometry x="130" y="580" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="Ok5rAGt4HAEtI8o3Ebm--3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1326,7 +1326,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+        <mxCell id="2tr5mArc6HaJdwd260pj-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="Ok5rAGt4HAEtI8o3Ebm--5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="718.3199999999999" y="687.3" as="targetPoint" />
           </mxGeometry>
@@ -1337,10 +1337,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ok5rAGt4HAEtI8o3Ebm--3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="120" height="90" as="geometry" />
+          <mxGeometry x="700" y="430" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ok5rAGt4HAEtI8o3Ebm--5" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="590" width="120" height="90" as="geometry" />
+          <mxGeometry x="707" y="590" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
