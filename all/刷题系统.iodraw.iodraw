@@ -1647,7 +1647,7 @@
             <mxPoint x="440" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CYRDMy1DYBIsV-uK7jcz-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-20">
+        <mxCell id="CYRDMy1DYBIsV-uK7jcz-6" value="题库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5HdftaEplCtDfnCS1fMr-20">
           <mxGeometry x="-0.0137" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1683,7 +1683,7 @@
         <mxCell id="5HdftaEplCtDfnCS1fMr-14" value="4.3&lt;div&gt;更新题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5HdftaEplCtDfnCS1fMr-21" value="&lt;div&gt;4.2&lt;/div&gt;添加题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5HdftaEplCtDfnCS1fMr-21" value="&lt;div&gt;4.2&lt;/div&gt;创建题库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CYRDMy1DYBIsV-uK7jcz-2" value="4.4&lt;div&gt;删除题库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
