@@ -1532,8 +1532,8 @@
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Td9qqFjvKWsUzoHFLi2K-15" target="Td9qqFjvKWsUzoHFLi2K-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Td9qqFjvKWsUzoHFLi2K-14" value="题目+答案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Td9qqFjvKWsUzoHFLi2K-13">
-          <mxGeometry x="-0.159" y="-1" relative="1" as="geometry">
+        <mxCell id="Td9qqFjvKWsUzoHFLi2K-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Td9qqFjvKWsUzoHFLi2K-13">
+          <mxGeometry x="-0.1436" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
