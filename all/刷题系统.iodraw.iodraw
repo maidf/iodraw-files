@@ -1971,7 +1971,7 @@
         <mxCell id="9tSVT1qwcOjv2qpShJLK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9tSVT1qwcOjv2qpShJLK-23" target="9tSVT1qwcOjv2qpShJLK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-22" value="创建结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-21">
+        <mxCell id="9tSVT1qwcOjv2qpShJLK-22" value="题库+题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9tSVT1qwcOjv2qpShJLK-21">
           <mxGeometry x="-0.0794" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
