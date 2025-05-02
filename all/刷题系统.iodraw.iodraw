@@ -1268,7 +1268,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.3;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+        <mxCell id="bsuS_rFLjB0pv1RixW-S-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.362;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiZzDjuEWqFaWndtf178-7" value="管理试卷" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-11" vertex="1" connectable="0">
@@ -1276,20 +1276,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsuS_rFLjB0pv1RixW-S-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
+        <mxCell id="bsuS_rFLjB0pv1RixW-S-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.992;exitY=0.678;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.781;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiZzDjuEWqFaWndtf178-8" value="管理题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bsuS_rFLjB0pv1RixW-S-13" vertex="1" connectable="0">
           <mxGeometry x="-0.3659" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9o4-l0qkXdfsiQgHGsoc-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-2" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QiZzDjuEWqFaWndtf178-9" value="管理试卷题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9o4-l0qkXdfsiQgHGsoc-2" vertex="1" connectable="0">
-          <mxGeometry x="-0.3654" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9o4-l0qkXdfsiQgHGsoc-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-1" target="wuHfcfHNjp_KwFN7KW-R-3" edge="1">
@@ -1335,14 +1327,6 @@
         </mxCell>
         <mxCell id="2tr5mArc6HaJdwd260pj-16" value="创建题目结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-15" vertex="1" connectable="0">
           <mxGeometry x="-0.3026" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.003;exitY=0.869;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wuHfcfHNjp_KwFN7KW-R-3" target="2tr5mArc6HaJdwd260pj-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2tr5mArc6HaJdwd260pj-18" value="添加试卷题目结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2tr5mArc6HaJdwd260pj-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.4815" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
