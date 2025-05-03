@@ -2573,6 +2573,9 @@
         <mxCell id="zNHmW6ir_zr3_zXi2x8I-14" value="比较答案" style="html=1;dashed=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="lpa40Q_GhD5mDlsvnRWk-3">
           <mxGeometry x="9.999999999999545" y="500" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="L1jFX4gcol0mKUFjx432-1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;endFill=1;" edge="1" parent="lpa40Q_GhD5mDlsvnRWk-3" source="7Iup8XrWFAaYEfX-m1lQ-3" target="7Iup8XrWFAaYEfX-m1lQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7Iup8XrWFAaYEfX-m1lQ-3" value="是否正确" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="lpa40Q_GhD5mDlsvnRWk-3">
           <mxGeometry x="29.999999999999545" y="580" width="60" height="50" as="geometry" />
         </mxCell>
@@ -2584,6 +2587,9 @@
         </mxCell>
         <mxCell id="7Iup8XrWFAaYEfX-m1lQ-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;endFill=1;" edge="1" parent="lpa40Q_GhD5mDlsvnRWk-1" source="zNHmW6ir_zr3_zXi2x8I-13" target="zNHmW6ir_zr3_zXi2x8I-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PcKR0--O6UK8aJbpi2u1-1" value="" style="html=1;dashed=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
