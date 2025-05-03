@@ -2069,26 +2069,29 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-2" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-3" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-4" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-5" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-6" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-7" value="角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.631;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-4">
           <mxGeometry relative="1" as="geometry" />
