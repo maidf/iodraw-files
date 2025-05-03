@@ -2136,7 +2136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-16" value="题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-17" value="题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="660" width="120" height="60" as="geometry" />
@@ -2178,16 +2178,16 @@
           <mxGeometry x="-70" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-38" value="题库名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="545" width="120" height="80" as="geometry" />
+          <mxGeometry x="-150" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-39" value="分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="-170" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-40" value="创建者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="-130" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-41" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="860" width="120" height="80" as="geometry" />
+          <mxGeometry x="-50" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-45" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.711;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-16" target="7KPmc4nfr0nE52uIMu98-40">
           <mxGeometry relative="1" as="geometry" />
@@ -2243,10 +2243,10 @@
           <mxGeometry x="530" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-71" value="难度" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="254" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-72" value="总分" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="254" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-73" value="创建者" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="940" width="120" height="80" as="geometry" />
