@@ -2442,14 +2442,14 @@
         <mxCell id="k-77uYt0CwppINSxpFrY-226" value="学生" style="swimlane;startSize=20;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="k-77uYt0CwppINSxpFrY-225">
           <mxGeometry y="20" width="120" height="460" as="geometry" />
         </mxCell>
+        <mxCell id="k-77uYt0CwppINSxpFrY-233" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="k-77uYt0CwppINSxpFrY-226">
+          <mxGeometry x="29.999999999999545" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="k-77uYt0CwppINSxpFrY-227" value="刷题系统" style="swimlane;startSize=20;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="k-77uYt0CwppINSxpFrY-225">
           <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
         </mxCell>
         <mxCell id="k-77uYt0CwppINSxpFrY-228" value="教师" style="swimlane;startSize=20;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="k-77uYt0CwppINSxpFrY-225">
           <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="k-77uYt0CwppINSxpFrY-231" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
