@@ -1230,22 +1230,22 @@
           <mxGeometry x="610" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-8" value="创&lt;div&gt;建&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="330" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="320" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-9" value="创&lt;div&gt;建&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;&lt;div&gt;卷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="390" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-10" value="创&lt;div&gt;建&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;&lt;div&gt;目&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="470" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="460" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-11" value="注&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="100" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="90" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-12" value="登&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="170" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="160" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-13" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="250" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="230" y="560" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
