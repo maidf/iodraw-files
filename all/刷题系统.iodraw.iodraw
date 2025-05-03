@@ -1215,13 +1215,13 @@
           <mxGeometry x="110" y="580" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-5" value="答&lt;div&gt;题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="210" y="580" width="60" height="120" as="geometry" />
+          <mxGeometry x="190" y="580" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-6" value="考&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="290" y="580" width="60" height="120" as="geometry" />
+          <mxGeometry x="270" y="580" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-8" value="创&lt;div&gt;建&lt;/div&gt;&lt;div&gt;题&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="380" y="590" width="60" height="120" as="geometry" />
+          <mxGeometry x="350" y="580" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-9" value="创&lt;div&gt;建&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;&lt;div&gt;卷&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="470" y="590" width="60" height="120" as="geometry" />
