@@ -2287,8 +2287,14 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-85" value="类型" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7KPmc4nfr0nE52uIMu98-86" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="7KPmc4nfr0nE52uIMu98-86" value="选项" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="920" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-87" value="答案" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-88" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
