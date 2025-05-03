@@ -2099,6 +2099,9 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.681;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-15" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
