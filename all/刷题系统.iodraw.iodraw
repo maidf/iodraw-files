@@ -1221,7 +1221,7 @@
           <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-4" value="查&lt;div&gt;看&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="570" y="740" width="60" height="120" as="geometry" />
+          <mxGeometry x="680" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-5" value="答&lt;div&gt;题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="540" y="560" width="60" height="120" as="geometry" />
@@ -1239,10 +1239,10 @@
           <mxGeometry x="470" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-11" value="注&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="110" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="100" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-12" value="登&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="180" y="560" width="60" height="120" as="geometry" />
+          <mxGeometry x="170" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-13" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="60" height="120" as="geometry" />
