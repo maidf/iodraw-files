@@ -2075,11 +2075,6 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7KPmc4nfr0nE52uIMu98-21" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7KPmc4nfr0nE52uIMu98-20">
-          <mxGeometry x="-0.2413" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2108,10 +2103,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-15" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-16" value="题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-17" value="题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="500" width="120" height="60" as="geometry" />
