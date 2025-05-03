@@ -2088,7 +2088,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7KPmc4nfr0nE52uIMu98-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-31">
+        <mxCell id="7KPmc4nfr0nE52uIMu98-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-1" target="7KPmc4nfr0nE52uIMu98-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2149,8 +2149,11 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-25" value="考试" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7KPmc4nfr0nE52uIMu98-31" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7KPmc4nfr0nE52uIMu98-31" value="刷题" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-31" target="7KPmc4nfr0nE52uIMu98-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
