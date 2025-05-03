@@ -2487,22 +2487,6 @@
         <mxCell id="JtpyTGPYyGkVtQr86_nG-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;endFill=1;" edge="1" parent="k-77uYt0CwppINSxpFrY-225" source="JtpyTGPYyGkVtQr86_nG-6" target="JtpyTGPYyGkVtQr86_nG-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JtpyTGPYyGkVtQr86_nG-81" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;" edge="1" target="JtpyTGPYyGkVtQr86_nG-83" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="680" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JtpyTGPYyGkVtQr86_nG-82" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;" edge="1" target="JtpyTGPYyGkVtQr86_nG-84" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="680" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JtpyTGPYyGkVtQr86_nG-83" value="Sub Section" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="720" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JtpyTGPYyGkVtQr86_nG-84" value="Sub Section" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="720" width="100" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
