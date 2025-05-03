@@ -2433,8 +2433,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k-77uYt0CwppINSxpFrY-14" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="180" height="120" as="geometry" />
+        <mxCell id="k-77uYt0CwppINSxpFrY-20" value="" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="20" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
