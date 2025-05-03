@@ -2562,7 +2562,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zNHmW6ir_zr3_zXi2x8I-4" value="生成考试凭证" style="html=1;dashed=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="100" height="50" as="geometry" />
+          <mxGeometry x="540" y="700" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
