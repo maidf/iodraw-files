@@ -2281,6 +2281,9 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-83" value="所属题库" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="600" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-84" value="题目内容" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
