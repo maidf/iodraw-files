@@ -2576,7 +2576,7 @@
         <mxCell id="7Iup8XrWFAaYEfX-m1lQ-3" value="是否正确" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="lpa40Q_GhD5mDlsvnRWk-3">
           <mxGeometry x="29.999999999999545" y="580" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7Iup8XrWFAaYEfX-m1lQ-10" value="记录考试" style="html=1;dashed=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="lpa40Q_GhD5mDlsvnRWk-3">
+        <mxCell id="7Iup8XrWFAaYEfX-m1lQ-10" value="保存考试记录和答题记录" style="html=1;dashed=0;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="lpa40Q_GhD5mDlsvnRWk-3">
           <mxGeometry x="9.999999999999545" y="660" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zNHmW6ir_zr3_zXi2x8I-1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;endFill=1;" edge="1" parent="lpa40Q_GhD5mDlsvnRWk-1" source="HLk0tALV8wKL0X5qfMqs-6" target="ceTdB40FLQC0S_Vd4brw-1">
