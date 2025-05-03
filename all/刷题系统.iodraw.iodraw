@@ -1215,10 +1215,10 @@
           <mxGeometry x="130" y="580" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15vw2mRx3C3tqilcunfB-5" value="答&lt;div&gt;题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="230" y="580" width="60" height="120" as="geometry" />
+          <mxGeometry x="220" y="580" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="15vw2mRx3C3tqilcunfB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="15vw2mRx3C3tqilcunfB-6" value="考&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
