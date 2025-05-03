@@ -2251,6 +2251,9 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-73" value="创建者" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="940" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7KPmc4nfr0nE52uIMu98-74" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
