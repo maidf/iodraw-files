@@ -1941,11 +1941,6 @@
         <mxCell id="9tSVT1qwcOjv2qpShJLK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9tSVT1qwcOjv2qpShJLK-13" target="9tSVT1qwcOjv2qpShJLK-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9tSVT1qwcOjv2qpShJLK-29" value="管理题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9tSVT1qwcOjv2qpShJLK-11" vertex="1" connectable="0">
-          <mxGeometry x="-0.2467" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9tSVT1qwcOjv2qpShJLK-13" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="650" width="120" height="60" as="geometry" />
         </mxCell>
