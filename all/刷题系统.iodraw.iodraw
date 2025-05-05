@@ -2141,6 +2141,9 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="736.36" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-158" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-15" target="uAIF_h6xxotOeZ5Q8BHB-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-15" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="856.36" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2518,20 +2521,26 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-147" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="620" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-159" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-148" target="uAIF_h6xxotOeZ5Q8BHB-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-148" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="776.36" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-157" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-149" target="uAIF_h6xxotOeZ5Q8BHB-152">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-149" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-150" value="考试记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="893" y="806.36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-151" value="答题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="641.36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-152" value="错题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
