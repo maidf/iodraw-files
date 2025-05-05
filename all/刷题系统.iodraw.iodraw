@@ -2158,9 +2158,6 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-16" value="题库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-154" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-17" target="uAIF_h6xxotOeZ5Q8BHB-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-17" value="题目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2570,7 +2567,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-167" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-167" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-17" target="uAIF_h6xxotOeZ5Q8BHB-147">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="718" y="400" as="sourcePoint" />
             <mxPoint x="860" y="342" as="targetPoint" />
