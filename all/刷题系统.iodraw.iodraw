@@ -2644,14 +2644,11 @@
         <mxCell id="GiBve0h2Ov_lwYOdVQMi-11" value="创建题库" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="GiBve0h2Ov_lwYOdVQMi-5">
           <mxGeometry x="9.999999999999545" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GiBve0h2Ov_lwYOdVQMi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GiBve0h2Ov_lwYOdVQMi-5" source="GiBve0h2Ov_lwYOdVQMi-13" target="GiBve0h2Ov_lwYOdVQMi-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GiBve0h2Ov_lwYOdVQMi-13" value="创建题目" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="GiBve0h2Ov_lwYOdVQMi-5">
           <mxGeometry x="9.999999999999545" y="360" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GiBve0h2Ov_lwYOdVQMi-15" value="" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="GiBve0h2Ov_lwYOdVQMi-5">
-          <mxGeometry x="-4.547473508864641e-13" y="485" width="120" height="60" as="geometry" />
+        <mxCell id="GiBve0h2Ov_lwYOdVQMi-17" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="GiBve0h2Ov_lwYOdVQMi-5">
+          <mxGeometry x="9.999999999999545" y="454.5" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
