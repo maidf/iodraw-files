@@ -2142,7 +2142,7 @@
           <mxGeometry x="-80" y="736.36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-15" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="786.36" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-16" value="题库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
@@ -2461,6 +2461,9 @@
           <mxGeometry x="0.0982" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-131" value="" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="610" y="506.36" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
