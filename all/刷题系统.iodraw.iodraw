@@ -2139,7 +2139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="796.36" width="120" height="60" as="geometry" />
+          <mxGeometry x="-150" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-15" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="786.36" width="120" height="60" as="geometry" />
@@ -2159,7 +2159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-18" value="查看" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="566.36" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="636.36" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7KPmc4nfr0nE52uIMu98-25" target="7KPmc4nfr0nE52uIMu98-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2173,7 +2173,7 @@
           <mxGeometry x="170" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-31" value="刷题" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="666.36" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="716.36" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="7KPmc4nfr0nE52uIMu98-31" target="7KPmc4nfr0nE52uIMu98-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
