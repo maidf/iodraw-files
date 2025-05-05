@@ -2518,8 +2518,11 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-150" value="考试记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-151" value="答题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="641.36" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-152" value="错题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="903" y="826.36" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
