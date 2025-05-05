@@ -2145,7 +2145,7 @@
           <mxGeometry x="370" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-16" value="题库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-17" value="题目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="576.36" width="120" height="60" as="geometry" />
@@ -2191,10 +2191,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-47" target="uAIF_h6xxotOeZ5Q8BHB-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-47" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-60" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7KPmc4nfr0nE52uIMu98-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="7KPmc4nfr0nE52uIMu98-49" target="7KPmc4nfr0nE52uIMu98-16" edge="1">
+        <mxCell id="7KPmc4nfr0nE52uIMu98-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-123" target="7KPmc4nfr0nE52uIMu98-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-59" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="7KPmc4nfr0nE52uIMu98-51" vertex="1" connectable="0">
@@ -2444,7 +2447,7 @@
           <mxGeometry x="50" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-123" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="630" y="476.36" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-124" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-122" target="7KPmc4nfr0nE52uIMu98-47">
           <mxGeometry relative="1" as="geometry" />
