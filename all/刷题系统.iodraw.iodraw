@@ -2626,6 +2626,9 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-203" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-194" target="uAIF_h6xxotOeZ5Q8BHB-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-204" value="答题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
