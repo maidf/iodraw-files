@@ -2441,10 +2441,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-122" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-123" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="476.36" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-124" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-122" target="7KPmc4nfr0nE52uIMu98-47">
           <mxGeometry relative="1" as="geometry" />
