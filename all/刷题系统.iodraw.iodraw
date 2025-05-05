@@ -2211,7 +2211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-49" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="80" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-122" target="7KPmc4nfr0nE52uIMu98-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2441,7 +2441,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-122" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="170" y="590" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-123" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="80" height="80" as="geometry" />
