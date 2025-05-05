@@ -2253,7 +2253,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-107" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1410" width="120" height="80" as="geometry" />
+          <mxGeometry x="-40" y="1610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="1480" width="120" height="60" as="geometry" />
@@ -2270,11 +2270,11 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-6" value="账号" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="1350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-8" target="uAIF_h6xxotOeZ5Q8BHB-1">
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-8" target="uAIF_h6xxotOeZ5Q8BHB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-8" value="密码" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1590" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="1400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-11" target="uAIF_h6xxotOeZ5Q8BHB-1">
           <mxGeometry relative="1" as="geometry" />
