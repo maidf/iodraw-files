@@ -2537,7 +2537,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-150" value="考试记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-151" value="答题记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="620" width="120" height="60" as="geometry" />
@@ -2550,6 +2550,17 @@
         </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-160" value="关联" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="900" y="726.36" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-163" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="420" as="sourcePoint" />
+            <mxPoint x="212" y="362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-164" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uAIF_h6xxotOeZ5Q8BHB-163">
+          <mxGeometry x="-0.0062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
