@@ -2635,8 +2635,11 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-206" value="所属用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1380" y="746.36" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-207" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="790" width="120" height="80" as="geometry" />
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-207" value="所属题目" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-208" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="890" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
