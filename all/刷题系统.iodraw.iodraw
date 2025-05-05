@@ -2144,6 +2144,9 @@
         <mxCell id="7KPmc4nfr0nE52uIMu98-15" value="试卷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-16" target="uAIF_h6xxotOeZ5Q8BHB-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-16" value="题库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2462,8 +2465,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-132" target="7KPmc4nfr0nE52uIMu98-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-132" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="490" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
