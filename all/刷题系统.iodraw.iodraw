@@ -2191,7 +2191,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-47" target="uAIF_h6xxotOeZ5Q8BHB-123">
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-47" target="uAIF_h6xxotOeZ5Q8BHB-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-47" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
