@@ -2194,6 +2194,11 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7KPmc4nfr0nE52uIMu98-47" target="uAIF_h6xxotOeZ5Q8BHB-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-129" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uAIF_h6xxotOeZ5Q8BHB-127">
+          <mxGeometry x="-0.0062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7KPmc4nfr0nE52uIMu98-47" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-60" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2452,9 +2457,9 @@
         <mxCell id="uAIF_h6xxotOeZ5Q8BHB-124" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uAIF_h6xxotOeZ5Q8BHB-122" target="7KPmc4nfr0nE52uIMu98-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-126" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50.002897584922906" y="430.00066264881417" as="geometry">
-            <mxPoint x="-13" y="45" as="offset" />
+        <mxCell id="uAIF_h6xxotOeZ5Q8BHB-130" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uAIF_h6xxotOeZ5Q8BHB-124">
+          <mxGeometry x="0.0982" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
