@@ -1503,13 +1503,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-6" value="&lt;div&gt;3&lt;/div&gt;&lt;div&gt;考试处理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="355" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-8" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pUtTDufb5W4E0AKVywnK-9" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-10" value="考试记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="200" width="120" height="60" as="geometry" />
