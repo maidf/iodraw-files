@@ -1448,7 +1448,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="diI3VjykhJ30sRqpXLZY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diI3VjykhJ30sRqpXLZY-6" target="diI3VjykhJ30sRqpXLZY-7">
+        <mxCell id="diI3VjykhJ30sRqpXLZY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="diI3VjykhJ30sRqpXLZY-6" target="21bCamnLl9j01dQvA2nd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="diI3VjykhJ30sRqpXLZY-5" value="答题结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="diI3VjykhJ30sRqpXLZY-4">
@@ -1457,10 +1457,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="diI3VjykhJ30sRqpXLZY-6" value="2&lt;div&gt;答题处理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="350" y="680" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="diI3VjykhJ30sRqpXLZY-7" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="diI3VjykhJ30sRqpXLZY-8" value="题目数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
