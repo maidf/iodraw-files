@@ -1489,7 +1489,7 @@
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-2" value="考试事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pUtTDufb5W4E0AKVywnK-1">
           <mxGeometry x="-0.1762" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pUtTDufb5W4E0AKVywnK-6" target="21bCamnLl9j01dQvA2nd-3">
