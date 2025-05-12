@@ -1693,7 +1693,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YVCGrIpwiksHlMbseAE--16" value="错题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
