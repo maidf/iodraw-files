@@ -1672,7 +1672,7 @@
         <mxCell id="YVCGrIpwiksHlMbseAE--6" value="&lt;div&gt;6&lt;/div&gt;&lt;div&gt;题目管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YVCGrIpwiksHlMbseAE--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YVCGrIpwiksHlMbseAE--6">
+        <mxCell id="YVCGrIpwiksHlMbseAE--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.358;exitY=1.022;exitDx=0;exitDy=0;entryX=0.25;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="1MRa0sYAEYO3hHV7F5ei-9" target="YVCGrIpwiksHlMbseAE--6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="1660" as="sourcePoint" />
           </mxGeometry>
@@ -1709,6 +1709,9 @@
         </mxCell>
         <mxCell id="YVCGrIpwiksHlMbseAE--16" value="错题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTuVJ9SJXrRZ1f82Ni8R-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="690" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
