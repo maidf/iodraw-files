@@ -1506,7 +1506,7 @@
           <mxGeometry x="370" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-10" value="考试记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="diI3VjykhJ30sRqpXLZY-8" target="pUtTDufb5W4E0AKVywnK-6">
           <mxGeometry relative="1" as="geometry">
@@ -1693,7 +1693,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YVCGrIpwiksHlMbseAE--16" value="错题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
