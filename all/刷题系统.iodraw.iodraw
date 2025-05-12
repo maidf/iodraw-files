@@ -1512,6 +1512,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="365" y="450" as="sourcePoint" />
             <mxPoint x="365" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="720" />
+              <mxPoint x="410" y="720" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pUtTDufb5W4E0AKVywnK-12" value="题目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pUtTDufb5W4E0AKVywnK-11">
