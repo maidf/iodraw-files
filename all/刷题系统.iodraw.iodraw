@@ -1637,7 +1637,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MhSyBCVTw5GXYeQTMUXK-10" value="&lt;div&gt;5&lt;/div&gt;&lt;div&gt;试卷管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="MhSyBCVTw5GXYeQTMUXK-10" value="&lt;div&gt;5&lt;/div&gt;&lt;div&gt;创建试卷&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="450" y="1230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MhSyBCVTw5GXYeQTMUXK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MhSyBCVTw5GXYeQTMUXK-13" target="MhSyBCVTw5GXYeQTMUXK-10" edge="1">
@@ -1669,7 +1669,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVCGrIpwiksHlMbseAE--6" value="&lt;div&gt;6&lt;/div&gt;&lt;div&gt;题目管理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="YVCGrIpwiksHlMbseAE--6" value="&lt;div&gt;6&lt;/div&gt;&lt;div&gt;创建题目&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YVCGrIpwiksHlMbseAE--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.358;exitY=1.022;exitDx=0;exitDy=0;entryX=0.25;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="1MRa0sYAEYO3hHV7F5ei-9" target="YVCGrIpwiksHlMbseAE--6" edge="1">
