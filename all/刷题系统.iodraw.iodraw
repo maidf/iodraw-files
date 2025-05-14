@@ -1784,8 +1784,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xq3oefiKPjLIM1WXhpdZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iig0pGCUIMJlBqaaQrfm-8" target="ZOou6WbMxCreGcy7hkL3-2">
+        <mxCell id="Xq3oefiKPjLIM1WXhpdZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iig0pGCUIMJlBqaaQrfm-8" target="ZOou6WbMxCreGcy7hkL3-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq3oefiKPjLIM1WXhpdZ-2" value="错题记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xq3oefiKPjLIM1WXhpdZ-1">
+          <mxGeometry x="-0.0953" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iig0pGCUIMJlBqaaQrfm-8" value="2.2&lt;div&gt;比较答案&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="520" y="630" width="80" height="80" as="geometry" />
@@ -1904,7 +1909,7 @@
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-16" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Td9qqFjvKWsUzoHFLi2K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Td9qqFjvKWsUzoHFLi2K-19" target="Td9qqFjvKWsUzoHFLi2K-23" edge="1">
+        <mxCell id="Td9qqFjvKWsUzoHFLi2K-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Td9qqFjvKWsUzoHFLi2K-19" target="Td9qqFjvKWsUzoHFLi2K-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-18" value="答题记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Td9qqFjvKWsUzoHFLi2K-17" vertex="1" connectable="0">
@@ -1935,7 +1940,7 @@
           <mxGeometry x="300" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-23" value="答题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="510" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Td9qqFjvKWsUzoHFLi2K-30" value="考试记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="780" width="120" height="60" as="geometry" />
@@ -1983,7 +1988,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_4c5-l8-YGmu5iXqCY9X-1" value="错题记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
