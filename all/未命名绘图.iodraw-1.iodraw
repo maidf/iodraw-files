@@ -43,6 +43,9 @@
         <mxCell id="erwXHyoHpCbp7QdRa9om-12" value="粉丝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="erwXHyoHpCbp7QdRa9om-13" value="创作中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
