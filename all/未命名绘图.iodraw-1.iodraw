@@ -29,19 +29,19 @@
           <mxGeometry x="800" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="170" width="540" height="480" as="geometry" />
+          <mxGeometry x="1020" y="175" width="540" height="480" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-9" value="稿件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-10" value="数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-11" value="收益" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erwXHyoHpCbp7QdRa9om-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="erwXHyoHpCbp7QdRa9om-12" value="粉丝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
