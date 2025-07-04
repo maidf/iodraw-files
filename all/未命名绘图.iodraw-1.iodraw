@@ -52,7 +52,7 @@
         <mxCell id="erwXHyoHpCbp7QdRa9om-15" value="钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erwXHyoHpCbp7QdRa9om-16" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="erwXHyoHpCbp7QdRa9om-16" value="个人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
