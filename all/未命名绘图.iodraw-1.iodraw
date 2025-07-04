@@ -20,7 +20,7 @@
           <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-6" value="货币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="150" width="250" height="280" as="geometry" />
+          <mxGeometry x="780" y="160" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-4" value="硬币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="210" width="120" height="60" as="geometry" />
