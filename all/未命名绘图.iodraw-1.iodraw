@@ -97,6 +97,9 @@
         <mxCell id="erwXHyoHpCbp7QdRa9om-30" value="关注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="erwXHyoHpCbp7QdRa9om-31" value="收藏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
