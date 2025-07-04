@@ -89,12 +89,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-28" value="黑名单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="170" width="430" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="erwXHyoHpCbp7QdRa9om-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="erwXHyoHpCbp7QdRa9om-30" value="关注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
