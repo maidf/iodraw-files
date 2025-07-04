@@ -55,8 +55,11 @@
         <mxCell id="erwXHyoHpCbp7QdRa9om-15" value="钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="erwXHyoHpCbp7QdRa9om-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="erwXHyoHpCbp7QdRa9om-16" target="erwXHyoHpCbp7QdRa9om-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-16" value="个人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="1485" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-17" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="230" width="120" height="60" as="geometry" />
