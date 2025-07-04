@@ -101,7 +101,10 @@
           <mxGeometry x="1970" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="erwXHyoHpCbp7QdRa9om-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-420" y="130" width="420" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="erwXHyoHpCbp7QdRa9om-33" value="动漫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
