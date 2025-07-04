@@ -55,7 +55,7 @@
         <mxCell id="erwXHyoHpCbp7QdRa9om-16" value="个人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erwXHyoHpCbp7QdRa9om-17" value="信息总览" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="erwXHyoHpCbp7QdRa9om-17" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
