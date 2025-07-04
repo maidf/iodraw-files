@@ -19,7 +19,7 @@
         <mxCell id="erwXHyoHpCbp7QdRa9om-2" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erwXHyoHpCbp7QdRa9om-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="erwXHyoHpCbp7QdRa9om-4" value="硬币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
