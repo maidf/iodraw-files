@@ -225,17 +225,20 @@
         <mxCell id="gr8fZ6AOjS8jOgHuynut-3" value="金币" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="590" y="760" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gr8fZ6AOjS8jOgHuynut-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="gr8fZ6AOjS8jOgHuynut-4" target="gr8fZ6AOjS8jOgHuynut-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gr8fZ6AOjS8jOgHuynut-4" value="id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="170" y="940" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gr8fZ6AOjS8jOgHuynut-5" value="记录" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="360" y="950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gr8fZ6AOjS8jOgHuynut-6" value="时间" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gr8fZ6AOjS8jOgHuynut-7" value="数量" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1150" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
