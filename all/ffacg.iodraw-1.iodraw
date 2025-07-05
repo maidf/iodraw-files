@@ -225,11 +225,11 @@
         <mxCell id="gr8fZ6AOjS8jOgHuynut-3" value="金币" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="590" y="760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gr8fZ6AOjS8jOgHuynut-4" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="390" y="790" width="120" height="80" as="geometry" />
+        <mxCell id="gr8fZ6AOjS8jOgHuynut-4" value="id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gr8fZ6AOjS8jOgHuynut-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="980" width="80" height="80" as="geometry" />
+        <mxCell id="gr8fZ6AOjS8jOgHuynut-5" value="记录" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
