@@ -129,6 +129,9 @@
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-4" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WXJVvzJ8Nt37tRhC3A3t-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
