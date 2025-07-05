@@ -121,22 +121,22 @@
           <mxGeometry x="290" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-2" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-3" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-4" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-5" value="签名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-6" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-7" value="生日" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
