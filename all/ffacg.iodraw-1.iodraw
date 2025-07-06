@@ -315,7 +315,7 @@
         <mxCell id="JcfxAqw3rDcC7ErYc-N9-1" value="创作" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1030" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="et4DEnC0eoRDU_af9Q9S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et4DEnC0eoRDU_af9Q9S-1" target="et4DEnC0eoRDU_af9Q9S-2">
+        <mxCell id="et4DEnC0eoRDU_af9Q9S-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="et4DEnC0eoRDU_af9Q9S-1" target="et4DEnC0eoRDU_af9Q9S-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="et4DEnC0eoRDU_af9Q9S-1" value="动漫" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -323,6 +323,9 @@
         </mxCell>
         <mxCell id="et4DEnC0eoRDU_af9Q9S-2" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="et4DEnC0eoRDU_af9Q9S-4" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="490" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
