@@ -375,8 +375,11 @@
         <mxCell id="U5F_rkGsbNBby4f30aIv-5" value="tracker" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1850" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U5F_rkGsbNBby4f30aIv-7" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="U5F_rkGsbNBby4f30aIv-7" value="size" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1410" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U5F_rkGsbNBby4f30aIv-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
