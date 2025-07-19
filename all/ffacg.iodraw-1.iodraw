@@ -454,7 +454,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w6-EV9ovc-PFqYqqEZ4k-1" value="黑名单" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yczIIzTTHj6C0-J0gNKb-1" value="动态" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="30" width="80" height="80" as="geometry" />
@@ -466,13 +466,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZJNElBp57fH1yGnzX2h-1" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="-90" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QZJNElBp57fH1yGnzX2h-3" value="关注" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="280" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QZJNElBp57fH1yGnzX2h-4" value="粉丝" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QZJNElBp57fH1yGnzX2h-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
