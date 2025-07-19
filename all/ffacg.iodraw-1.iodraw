@@ -157,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-7" value="生日" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WXJVvzJ8Nt37tRhC3A3t-8" value="手机" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="-40" width="120" height="80" as="geometry" />
@@ -383,6 +383,9 @@
         <mxCell id="Wtw8Yv_9-0LS4mYdI16i-1" value="2fa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-60" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mV1GHOzMpjcP1PgKhWyi-1" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -484,13 +487,13 @@
           <mxGeometry x="90" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tEiZEraJqfNvGnSg0V05-1" value="钱包" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="450" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qhmk_prEN3evF2zAipaC-1" value="安全" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="210" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RurRHXtFvWdOgd131JMH-1" value="勋章" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="324" y="560" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
